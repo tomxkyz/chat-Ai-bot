@@ -1,6 +1,7 @@
 # Whatsapp Chat GPT
 
 Whatsapp Chat GPT is a simple Whatsapp bot that consuming OpenIA API. You can make your questions and get your responses inside Whatsapp.
+You can take ApiKey here: https://platform.openai.com/account/api-keys
 
 ## Demo video
 
@@ -16,7 +17,7 @@ https://user-images.githubusercontent.com/67132916/212448427-d70eceb9-b59b-49f9-
 Clone this project
 
 ```bash
-  git clone git@github.com:Santosl2/wpp-chatgpt.git
+  git clone https://github.com/tomxkyz/chat-Ai-bot
 ```
 
 Enter in repository project folder
